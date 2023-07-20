@@ -1,1 +1,1 @@
-fhfhgfhf gjgj
+Simulate the MD5 algorithm to find the hash function for the text. This is a well-known algorithm used in cryptography to help find the hash values corresponding to the message
